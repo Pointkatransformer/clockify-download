@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for Clockify.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit Clockify on SOFTGIT](https://softgit.pro/p/clockify)** — the full listing.
+- 📄 **[Clockify web page](https://pointkatransformer.github.io/clockify-download/)** — standalone info page.
+- 🗂️ [More Time Tracking software](https://softgit.pro/category/time-tracking)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for Clockify. Third-party software; all rights belong to the original authors.
